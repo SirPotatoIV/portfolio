@@ -3221,3 +3221,9 @@ input, select, textarea {
 			}
 
 	}
+
+	/* Added by Jake O'Toole */
+	#resume{
+		/* font-weight: bold; */
+		font-size: 28px;
+	}
